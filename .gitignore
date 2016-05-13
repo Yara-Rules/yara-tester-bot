@@ -60,3 +60,9 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# Config file
+*.cfg
+
+# Pidfile
+*.pid

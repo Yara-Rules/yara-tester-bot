@@ -1,0 +1,7 @@
+[Log]
+logfile: yarabot.log
+loglevel: 30 ; 10:DEBUG 20:INFO 
+
+[Bot]
+token: <YOUR_TOKEN_HERE>
+chat_id: [<CHAT_ID_1>, <CHAT_ID_2>, ... , <CHAT_ID_N>]
